@@ -56,4 +56,4 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-**Made with ❤️ by [Ahmed Hassan](https://xzegas.github.io/)**
+**Made with ❤️ by [Ahmed Hassan](https://github.com/xZegAs/)**
