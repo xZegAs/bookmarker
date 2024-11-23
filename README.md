@@ -27,16 +27,18 @@ A simple and elegant web application to save, manage, and organize your bookmark
 
 ## 📂 Project Structure
 
+```md
 bookmarker/
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet for the website
 ├── app.js # JavaScript file handling functionality
 ├── favicon.ico # Website icon
 └── README.md # Documentation
+```
 
 ## 🖼️ Preview
 
-![Screenshot]("./screenshots/demoScreenshot.png")
+![Screenshot](https://xzegas.github.io/bookmarker/screenshots/demoScreenshot.png)
 
 ## 🤝 Contributing
 
