@@ -7,7 +7,6 @@ A simple and elegant web application to save, manage, and organize your bookmark
 ## 🚀 Features
 
 - **Add Bookmarks:** Save URLs quickly and effortlessly.
-- **Edit Bookmarks:** Update the details of saved links as needed.
 - **Delete Bookmarks:** Remove old or unwanted bookmarks easily.
 - **Local Storage Integration:** All data is stored locally, ensuring fast access and privacy.
 - **Responsive Design:** Optimized for desktop and mobile devices.
@@ -22,8 +21,7 @@ A simple and elegant web application to save, manage, and organize your bookmark
 
 1. Visit the website: [Bookmarker](https://xzegas.github.io/bookmarker/)
 2. Add a bookmark by entering the URL and name in the input fields and clicking the "Add Bookmark" button.
-3. Manage bookmarks with options to edit or delete them directly.
-4. Use the search bar to quickly locate a specific bookmark.
+3. Manage bookmarks with options to visit or delete them directly.
 
 ## 📂 Project Structure
 
